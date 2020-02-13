@@ -25,6 +25,7 @@ export const BlogPostTemplate = ({
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
+            <h2>Modified by T&amp;G</h2>
             <p>{description}</p>
             <PostContent content={content} />
             {tags && tags.length ? (
