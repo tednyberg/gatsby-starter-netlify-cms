@@ -6,9 +6,13 @@ description: |-
   Här kommer en liten beskrivning.
 
   Här kommer ytterligare lite text.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/pimg-arcona-430-100759.jpg
 tags:
   - sailing
 ---
 Här kommer lite brödtext.
+
+Och här kommer segelbåten igen:
+
+![](/img/pimg-arcona-430-100759.jpg)
