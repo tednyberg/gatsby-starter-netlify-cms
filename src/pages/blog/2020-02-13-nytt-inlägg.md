@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Nytt inlägg
+title: Nytt blogginlägg
 date: 2020-02-13T13:27:09.100Z
 description: |-
   Här kommer en liten beskrivning.
